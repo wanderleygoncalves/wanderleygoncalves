@@ -46,7 +46,7 @@
    <div>
       <a
         href="https://linkedin.com/in/wanderley-g-a8177220b"  
-        target"_blank"
+        target"_blank
        >
         <img 
          height="30" 
