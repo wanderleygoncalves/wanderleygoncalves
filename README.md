@@ -20,7 +20,7 @@
 ### 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/wanderley-g-a8177220b" target="_blank">
+  <a href="https://www.linkedin.com/in/wanderley-dg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
